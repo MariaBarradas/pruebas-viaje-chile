@@ -74,12 +74,16 @@ h3{
     height: 160px;
 }
 
-form{
+/* form{
     width: 1180px;
     margin: 0px 0px 0px 100px;
     font-weight: 300;
     font-family: 'Roboto', sans-serif;
 
+} */
+
+#contacto{
+    margin: 0px 0px 0px 60px;
 }
 
 footer{
