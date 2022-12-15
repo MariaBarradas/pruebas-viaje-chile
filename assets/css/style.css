@@ -47,13 +47,6 @@ i{
     margin: 5px 0px 0px 0px;
 }
 
-
-/* .gap-3{
-    padding: 0px;
-    margin: 0px 60px 0px 75px;
-    width: 1280px;
-} */
-
 h3{
     font-size: 20px;
     font-weight: 400;
@@ -74,21 +67,13 @@ h3{
     height: 160px;
 }
 
-/* form{
-    width: 1180px;
-    margin: 0px 0px 0px 100px;
-    font-weight: 300;
-    font-family: 'Roboto', sans-serif;
-
-} */
-
 #contacto{
     margin: 0px 0px 0px 60px;
     font-weight: 300;
     font-family: 'Roboto', sans-serif;
 }
 
-footer{
+/* footer{
     top: 1377px;
     height: 100px;
     width: 1280px;
@@ -112,5 +97,44 @@ i{
 
   footer.container.col-12.text-center.text-light{
     padding: 35px 0px 0px 0px;
-    /* margin: 0px; */
-  }
+    /* margin: 0px; 
+  } */
+
+footer.row{
+    margin: 60px 0px 0px 0px;
+    height: 110px;
+    padding: 40px 0px 0px 0px;
+}
+
+.redessociales.col-6{
+    padding: 0px;
+}
+
+/* h4.col-6.fw-bold.text-light.text-center{
+    padding: 0px;
+    margin: 5px 10px 0px 0px;
+    /* font-size: 20px; 
+
+} */
+
+i.fa-brands.fa-square-github{
+    margin: 0px 20px 2px 2px;
+    width: 10px;
+}
+
+i.fa-brands.fa-linkedin{
+    margin: 0px 20px 2px 2px;
+    width: 10px;
+
+}
+
+
+i.fa-brands.fa-square-twitter{
+    margin: 0px 20px 2px 2px;
+    width: 10px;
+}
+
+i.fa-brands.fa-square-facebook{
+    margin: 0px 20px 2px 2px;
+    width: 10px;
+}
