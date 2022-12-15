@@ -26,8 +26,7 @@ body{
 .quienessomos h1{
     font-size: 25px; 
     font-weight: 400;
-    font-family: 'Roboto', sans-serif;
-    
+    font-family: 'Roboto', sans-serif; 
 }
 
 i{
@@ -52,6 +51,7 @@ h3{
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
+
 .card{
    padding: 0px;
    margin: 0px;
@@ -92,9 +92,7 @@ i.fa-brands.fa-square-github{
 i.fa-brands.fa-linkedin{
     margin: 0px 0px 2px 30px;
     width: 12px;
-
 }
-
 
 i.fa-brands.fa-square-twitter{
     margin: 0px 0px 2px 30px;
@@ -104,4 +102,4 @@ i.fa-brands.fa-square-twitter{
 i.fa-brands.fa-square-facebook{
     margin: 0px 10px 2px 30px;
     width: 12px;
-}
+} 
